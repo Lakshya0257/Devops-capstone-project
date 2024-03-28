@@ -1,6 +1,6 @@
 // spell: disable
 {
-	"name": "Cloud IDE",
+	"name": "Cloud ID",
 	"dockerFile": "Dockerfile",
 	"context": "..",
 	"remoteUser": "theia",

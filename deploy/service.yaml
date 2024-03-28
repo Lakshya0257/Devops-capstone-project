@@ -7,7 +7,7 @@ metadata:
   name: accounts
 spec:
   ports:
-  - port: 8080
+  - port: 808
     protocol: TCP
     targetPort: 8080
   selector:

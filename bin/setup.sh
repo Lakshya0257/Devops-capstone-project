@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "****************************************"
-echo " Setting up Capstone Environment"
+echo " Setting up Capstone Environmen"
 echo "****************************************"
 
 echo "Updating package manager..."
