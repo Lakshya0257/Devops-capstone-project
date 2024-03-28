@@ -1,7 +1,7 @@
 ---
 name: user-story
 about: Issue template for creating user story
-title: ''
+title: '' 
 labels: ''
 assignees: ''
 
